@@ -1,13 +1,37 @@
-# Responsive Personal Portfolio Website
-## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
-### Responsive Personal Portfolio Website
+# Kgaugelo Mmakola | Personal Portfolio Website 💼
 
-- Responsive Personal Portfolio Website Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my work as a software developer, data analyst, and Power BI enthusiast.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+📌 **Live Site:** [https://15kay.github.io/responsive-portfolio-website-JhonDoe](https://15kay.github.io/responsive-portfolio-website-JhonDoe)
 
-![preview img](/preview.png)
+---
+
+## 🔍 About Me
+
+I'm Kgaugelo Mmakola, a Cum Laude graduate with a Diploma in ICT – Application Development from Walter Sisulu University, currently pursuing my Advanced Diploma. I specialize in full-stack development, data science, and business intelligence.
+
+---
+
+## 💡 Features
+
+- Responsive and mobile-first layout
+- Smooth scroll and interactive elements
+- Sections for About, Skills, Portfolio, and Contact
+- GitHub and LinkedIn integration
+- Visual showcase of web and Power BI projects
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Git & GitHub
+- Boxicons
+- ScrollReveal.js
+
+---
+
+## 📁 Project Structure
+
